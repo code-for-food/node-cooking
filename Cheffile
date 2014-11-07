@@ -14,4 +14,3 @@ site 'https://supermarket.getchef.com/api/v1'
 #   :git => 'https://github.com/findsyou/cookbooks',
 #   :ref => 'postgresql-improvements'
 cookbook 'mysql', '~> 5.5.2'
-cookbook 'nvm', '~> 0.1.0'

@@ -230,18 +230,9 @@ You see something like that
 		[2014-11-02T07:16:20+00:00] INFO: Report handlers complete
 		Chef Client finished, 30/36 resources updated in 756.082469267 seconds
 
+Open node server
+		
+		http://192.168.34.100:1337/
+		
 #####Congratulation!!! You are Chef now :)
-
-
-
-### License
-Written by [congdang](mailto:congdng@gmail.com)
-
-Copyright (c) 2014 CongDang.
-
-Welcome any comments, please contact me via
-
-* Email: congdng@gmail.com
-* Twitter [@congdang](http://twitter.com/congdang)
-
 

@@ -1,0 +1,17 @@
+{
+  "author": "congdang",
+  "name": "NodejsTraining",
+  "description": "",
+  "version": "1.0.1",
+  "repository": {},
+  "dependencies": {
+    "mysql2": "~0.10.6",
+    "express": "~4.1.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
+
